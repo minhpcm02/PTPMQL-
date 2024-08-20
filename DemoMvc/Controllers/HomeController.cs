@@ -20,7 +20,7 @@ public class HomeController : Controller
     [HttpPost]
     public IActionResult Index(string FullName )
     {
-        string strOutput = "helo chao cau" + "-" + FullName;
+        string strOutput = "chao em" + "-" + FullName;
         ViewBag.hghh = strOutput;
         return View();
     }
