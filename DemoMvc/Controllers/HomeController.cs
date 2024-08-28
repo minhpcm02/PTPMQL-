@@ -33,8 +33,8 @@ public class HomeController : Controller
 
     public IActionResult Demo (string FullName)
     {
-        String strResult = "Hello" + FullName;
-        ViewBag.thongbao = strResult;
+        String strResult = "Hello" + FullName; 
+        ViewBag.thongbao = strResult;        
         return View();
     }
     public IActionResult Privacy()

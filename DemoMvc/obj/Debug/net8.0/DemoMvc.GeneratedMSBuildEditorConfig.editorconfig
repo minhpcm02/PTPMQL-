@@ -9,103 +9,47 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DemoMvc
 build_property.RootNamespace = DemoMvc
-build_property.ProjectDir = F:\PTPMQL\DemoMvc\
+build_property.ProjectDir = f:\PTPMQL\DemoMvc\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\PTPMQL\DemoMvc
+build_property.MSBuildProjectDirectory = f:\PTPMQL\DemoMvc
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/PTPMQL/DemoMvc/MvcMovie01/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TXZjTW92aWUwMVxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[F:/PTPMQL/DemoMvc/MvcMovie01/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TXZjTW92aWUwMVxWaWV3c1xIb21lXFByaXZhY3kuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[F:/PTPMQL/DemoMvc/MvcMovie01/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TXZjTW92aWUwMVxWaWV3c1xTaGFyZWRcRXJyb3IuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[F:/PTPMQL/DemoMvc/MvcMovie01/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TXZjTW92aWUwMVxWaWV3c1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[F:/PTPMQL/DemoMvc/MvcMovie01/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TXZjTW92aWUwMVxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[F:/PTPMQL/DemoMvc/MvcMovie01/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TXZjTW92aWUwMVxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[F:/PTPMQL/DemoMvc/MvcMovie/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TXZjTW92aWVcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[F:/PTPMQL/DemoMvc/MvcMovie/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TXZjTW92aWVcVmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[F:/PTPMQL/DemoMvc/MvcMovie/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TXZjTW92aWVcVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[F:/PTPMQL/DemoMvc/MvcMovie/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TXZjTW92aWVcVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[F:/PTPMQL/DemoMvc/MvcMovie/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TXZjTW92aWVcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[F:/PTPMQL/DemoMvc/MvcMovie/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TXZjTW92aWVcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[F:/PTPMQL/DemoMvc/Views/Home/Demo.cshtml]
+[f:/PTPMQL/DemoMvc/Views/Home/Demo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZW1vLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/PTPMQL/DemoMvc/Views/Home/Index.cshtml]
+[f:/PTPMQL/DemoMvc/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/PTPMQL/DemoMvc/Views/Home/Privacy.cshtml]
+[f:/PTPMQL/DemoMvc/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/PTPMQL/DemoMvc/Views/Shared/Error.cshtml]
+[f:/PTPMQL/DemoMvc/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/PTPMQL/DemoMvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+[f:/PTPMQL/DemoMvc/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/PTPMQL/DemoMvc/Views/Student.cs/Index.cshtml]
+[f:/PTPMQL/DemoMvc/Views/Student.cs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudC5jc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/PTPMQL/DemoMvc/Views/_ViewImports.cshtml]
+[f:/PTPMQL/DemoMvc/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/PTPMQL/DemoMvc/Views/_ViewStart.cshtml]
+[f:/PTPMQL/DemoMvc/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/PTPMQL/DemoMvc/MvcMovie01/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TXZjTW92aWUwMVxWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = b-i9721pmkmp
-
-[F:/PTPMQL/DemoMvc/MvcMovie/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TXZjTW92aWVcVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-g9ye5mvzgk
-
-[F:/PTPMQL/DemoMvc/Views/Shared/_Layout.cshtml]
+[f:/PTPMQL/DemoMvc/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-3zi3ujkzus
