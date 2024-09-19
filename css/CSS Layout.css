@@ -1,0 +1,7 @@
+span {
+    display: block;
+  }
+
+  h1.hidden {
+    visibility: hidden;
+  }
